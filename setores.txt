@@ -1,4 +1,3 @@
 DTIC
 - CITIC
 - CSTIC
-- GOVTIC
